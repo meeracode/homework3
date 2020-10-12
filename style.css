@@ -1,0 +1,59 @@
+body{
+  width:960;
+  margin:10;
+  text-allign:center;
+}
+.columns{
+  width:31px;
+  float:left;
+  margin:1%;
+  background-color: #efefefef;
+}
+
+nav{
+  background-color: #efefefef;
+}
+
+
+
+/*
+*{
+  text-align:center;
+  border-color: blue;
+  background-color:white;
+  margin:10px;
+  border: 20px;
+
+}
+
+.displaylogo{
+  height:40;
+}
+body{
+  text-align: center;
+
+}
+
+h1,h2,h3{
+  text-decoration: blue;
+  font-size: large;
+}
+
+.li{
+  display: inline;
+
+}
+
+.lines{
+  height:0px;
+  width:0px;
+  background-color: cornflowerblue;
+  border: cornflowerblue;
+}
+
+.divclass{
+  height: 10px;
+  border-width: 10px;
+  border-color: burlywood;
+
+} */
